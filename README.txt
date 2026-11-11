@@ -1,3 +1,1 @@
-Upload index.html and preview.jpg directly to the root of your GitHub Pages repository. Do not upload the ZIP. CSS uses proportional artwork for both portrait and landscape.
-
-Telugu text replaces Devanagari text in the invitation.
+Upload index.html and preview.jpg directly to the GitHub repository root (not the ZIP). Restored original embedded background art with full opacity and preserved image aspect ratio.
